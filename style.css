@@ -3,3 +3,11 @@
 body {
   font-family: "Ubuntu", sans-serif;
 }
+.catagory-hover {
+  background-color: darkturquoise;
+}
+.catagory-hover:hover {
+  cursor: pointer;
+  color: white;
+  background-color: crimson;
+}
